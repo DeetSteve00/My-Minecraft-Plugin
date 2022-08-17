@@ -5,6 +5,6 @@ Things it has:
   - Anti explosions option 🚫!!
   - Explode when you sneak! 💥!
   - Hide only from specific players 👤!!
-  - The ability to ***despawn*** players 💀
+  - The ability to ***despawn*** players
   - Free apples 🍎!!!
   - Keep your server's chat active with `First to say (Insert random string here) wins!!!` 💬!!!
