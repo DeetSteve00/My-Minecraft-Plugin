@@ -1,0 +1,18 @@
+name: DeetPlugin
+author: DeetSteve00
+main: me.deetsteve00.dev.beta.Main
+description: DeetSteve00 makes stuff for the server
+version: 0.1.0
+commands:
+  mosh:
+    description: Test command.
+    usage: /mosh [1-16]
+  hide:
+    description: Hide form a specific player.
+    usage: /hide {Player}
+  show:
+    description: Show un-hide from a player.
+    usage: /show {Player} 
+  despawn:
+    description: Despawns you, (rejoin the server if problems)
+    usage: /despawn
